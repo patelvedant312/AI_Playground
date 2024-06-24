@@ -1,0 +1,7 @@
+Implemented multi-layer neural network WITHOUT using external deep learning libraries such as Keras, Caffe, Theano, TensorFlow, PyTorch
+ 
+- The width of the layer 1 is 2, and the width of the layer 2 is 1.
+- The activation functions of the layer 1 are the hyperbolic tangent.
+- The activation function of the layer 2 is the sigmoid.
+- The loss function is the mean squared error.
+
